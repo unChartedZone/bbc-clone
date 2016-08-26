@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+#bbcLogo	style.css	/^#bbcLogo {$/;"	i
+#headerWhiteBar	style.css	/^#headerWhiteBar {$/;"	i
+.whiteBarText	style.css	/^.whiteBarText {$/;"	c
+bbcLogo	index.html	/^                <img id="bbcLogo" src="images\/bbcLogo.png" alt="bbc logo">$/;"	o
+body	style.css	/^body {$/;"	t
+header	index.html	/^        <div id="header">$/;"	o
+headerRedBar	index.html	/^            <div id="headerRedBar">$/;"	o
+headerWhiteBar	index.html	/^            <div id="headerWhiteBar">$/;"	o
