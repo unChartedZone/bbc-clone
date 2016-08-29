@@ -5,10 +5,36 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 #bbcLogo	style.css	/^#bbcLogo {$/;"	i
+#bell	style.css	/^#bell {$/;"	i
+#bellDiv	style.css	/^#bellDiv {$/;"	i
 #headerWhiteBar	style.css	/^#headerWhiteBar {$/;"	i
+#magGlass	style.css	/^#magGlass {$/;"	i
+#moreText	style.css	/^#moreText {$/;"	i
+#newsSign	style.css	/^#newsSign {$/;"	i
+#redBar	style.css	/^#redBar {$/;"	i
+#searchBar	style.css	/^#searchBar {$/;"	i
+#signInImage	style.css	/^#signInImage {$/;"	i
+#signInText	style.css	/^#signInText {$/;"	i
+#wigglyLine	style.css	/^#wigglyLine  {$/;"	i
+.clear	style.css	/^.clear {$/;"	c
+.topBarMenu	style.css	/^.topBarMenu {$/;"	c
+.topBarText	style.css	/^.topBarText {$/;"	c
 .whiteBarText	style.css	/^.whiteBarText {$/;"	c
+Person	script.js	/^function Person(name,age) {$/;"	r
+age	script.js	/^	this.age = age;$/;"	r
 bbcLogo	index.html	/^                <img id="bbcLogo" src="images\/bbcLogo.png" alt="bbc logo">$/;"	o
+bell	index.html	/^                    <img id="bell" src="images\/bell.png" >$/;"	o
+bellDiv	index.html	/^                <div id="bellDiv">$/;"	o
 body	style.css	/^body {$/;"	t
-header	index.html	/^        <div id="header">$/;"	o
-headerRedBar	index.html	/^            <div id="headerRedBar">$/;"	o
+chris	script.js	/^var chris = new Person("Christian",21);$/;"	r
+fullName	script.js	/^var fullName = "Christian Valdez";$/;"	r
 headerWhiteBar	index.html	/^            <div id="headerWhiteBar">$/;"	o
+magGlass	index.html	/^                        <input src="images\/magGlass.png" id="magGlass" class="topBarText" type="image"\/>$/;"	o
+moreText	index.html	/^                    <span id="moreText" class="topBarText">More<\/span>$/;"	o
+name	script.js	/^	this.name = name;$/;"	r
+newsSign	index.html	/^                <span id="newsSign">NEWS<\/span>$/;"	o
+redBar	index.html	/^            <div id="redBar">$/;"	o
+searchBar	index.html	/^                        <input id="searchBar" class="topBarText" type="text" placeholder="Search">$/;"	o
+signInImage	index.html	/^                    <img id="signInImage" src="images\/signIn.png">$/;"	o
+signInText	index.html	/^                    <span id="signInText">Sign in<\/span>$/;"	o
+wigglyLine	index.html	/^                    <img id="wigglyLine" src="images\/wigglyLine.png">$/;"	o
