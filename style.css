@@ -92,25 +92,18 @@
 #redNewsBar {
 	width: 1200px;
 	margin: 0 auto;
+    padding-bottom: 5px;
 }
 
-#redSectionsBar {
-	width: 100%;
-	height: 30px;
-	margin: 0 auto;
+#redMenuBar-container {
+    width: 100%;
 	background-color: #A91717;
 }
 
-#firstRedElement {
-   padding-left: 11%;
-}
-
-.redSection {
-    float: left;
-    color: white;
-    padding-top: 5px;
-    padding-right: 10px;
-    border-right: 1px #FFFFFF solid;
+#redMenuBar {
+    width: 1200px;
+    height: 30px;
+    margin: 0 auto;
 }
 
 h1 {
