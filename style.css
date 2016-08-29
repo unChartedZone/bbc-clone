@@ -83,15 +83,33 @@
 
 #redBar {
 	width: 100%;
-	height: 55px;
+	height: 70px;
 	background-color: #BB1919;
 	color: white;
+	margin: 0;
+	padding: 0;
 }
 
-#newsSign {
-	float: left;	
-	font-size: 50px;
-	font-weight: 100;
+#redMenuBar {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#redSectionsBar {
+	width: 100%;
+	height: 20px;
+	margin: 0 auto;
+	background-color: #A91717;
+}
+
+h1 {
+	padding: 0;
+	margin: 0;
+	color: white;
+	font-size: 40px;
+	font-weight: normal;
+	padding-top: 10px;
+	padding-left: 9%;
 }
 
 body {
