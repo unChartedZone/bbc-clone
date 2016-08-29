@@ -10,13 +10,15 @@
 #headerWhiteBar	style.css	/^#headerWhiteBar {$/;"	i
 #magGlass	style.css	/^#magGlass {$/;"	i
 #moreText	style.css	/^#moreText {$/;"	i
-#newsSign	style.css	/^#newsSign {$/;"	i
 #redBar	style.css	/^#redBar {$/;"	i
+#redNewsBar	style.css	/^#redNewsBar {$/;"	i
+#redSectionsBar	style.css	/^#redSectionsBar {$/;"	i
 #searchBar	style.css	/^#searchBar {$/;"	i
 #signInImage	style.css	/^#signInImage {$/;"	i
 #signInText	style.css	/^#signInText {$/;"	i
 #wigglyLine	style.css	/^#wigglyLine  {$/;"	i
 .clear	style.css	/^.clear {$/;"	c
+.redSection	style.css	/^.redSection {$/;"	c
 .topBarMenu	style.css	/^.topBarMenu {$/;"	c
 .topBarText	style.css	/^.topBarText {$/;"	c
 .whiteBarText	style.css	/^.whiteBarText {$/;"	c
@@ -28,12 +30,15 @@ bellDiv	index.html	/^                <div id="bellDiv">$/;"	o
 body	style.css	/^body {$/;"	t
 chris	script.js	/^var chris = new Person("Christian",21);$/;"	r
 fullName	script.js	/^var fullName = "Christian Valdez";$/;"	r
+h1	style.css	/^h1 {$/;"	t
 headerWhiteBar	index.html	/^            <div id="headerWhiteBar">$/;"	o
 magGlass	index.html	/^                        <input src="images\/magGlass.png" id="magGlass" class="topBarText" type="image"\/>$/;"	o
 moreText	index.html	/^                    <span id="moreText" class="topBarText">More<\/span>$/;"	o
 name	script.js	/^	this.name = name;$/;"	r
-newsSign	index.html	/^                <span id="newsSign">NEWS<\/span>$/;"	o
 redBar	index.html	/^            <div id="redBar">$/;"	o
+redButtons	index.html	/^                <div id="redButtons">$/;"	o
+redNewsBar	index.html	/^                <div id="redNewsBar">$/;"	o
+redSectionsBar	index.html	/^            <div id="redSectionsBar">$/;"	o
 searchBar	index.html	/^                        <input id="searchBar" class="topBarText" type="text" placeholder="Search">$/;"	o
 signInImage	index.html	/^                    <img id="signInImage" src="images\/signIn.png">$/;"	o
 signInText	index.html	/^                    <span id="signInText">Sign in<\/span>$/;"	o
