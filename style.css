@@ -122,6 +122,17 @@
 	padding-left: 8.5%;
 }
 
+#redArrow {
+	float: left;
+	height: 21px;
+	position: relative;
+	top: 8px;
+}
+
+.no-border {
+	border: none !important;
+}
+
 h1 {
 	padding: 0;
 	margin: 0;
