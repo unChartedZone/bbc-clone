@@ -102,6 +102,18 @@
 	background-color: #A91717;
 }
 
+#firstRedElement {
+   padding-left: 11%;
+}
+
+.redSection {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-right: 10px;
+    border-right: 1px #FFFFFF solid;
+}
+
 h1 {
 	padding: 0;
 	margin: 0;
