@@ -113,7 +113,8 @@
 	padding: 0 10px;
 	border-right: 1px solid #BB4545;
 	position: relative;
-	top: 10px;
+	top: 12px;
+	float: left;
 }
 
 /* For first link which is Home */
