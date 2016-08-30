@@ -138,6 +138,26 @@
     margin: 0 auto;
 }
 
+#article-summary {
+    color: #5A5A5A;
+    width: 240px;
+    margin-left: 8.5%;
+}
+
+#article-summary img {
+    position: relative;
+    top: 5px;
+}
+
+#article-summary a {
+    text-decoration: none;
+    color: #A91717;
+}
+
+#article-summary a:hover {
+    color: blue;
+}
+
 h1 {
 	padding: 0;
 	margin: 0;
