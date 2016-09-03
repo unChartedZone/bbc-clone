@@ -138,6 +138,10 @@
     margin: 0 auto;
 }
 
+#main-article p {
+    font-size: 14px;
+}
+
 #article-summary {
     color: #5A5A5A;
     width: 240px;
