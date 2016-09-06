@@ -144,12 +144,13 @@
 
 #article-summary {
     color: #5A5A5A;
-    width: 240px;
+    width: 250px;
     margin-left: 8.5%;
+    float: left;
 }
 
 #date {
-	padding right: 5px;
+	padding-right: 5px;
 }
 
 #article-summary img {
