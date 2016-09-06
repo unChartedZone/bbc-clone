@@ -144,9 +144,10 @@
 
 #article-summary {
     color: #5A5A5A;
-    width: 250px;
+    width: 230px;
     margin-left: 8.5%;
     float: left;
+    padding-right: 20px;
 }
 
 #date {
