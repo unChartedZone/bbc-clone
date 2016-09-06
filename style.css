@@ -203,6 +203,18 @@
     color: #1167A8;
 }
 
+#watching-container {
+    margin-left: 15px;
+    float: left;
+}
+
+#watch-listen {
+    font-size: 25px;
+    font-weight: 500;
+    /*padding-left: 15px;*/
+    color: #404045;
+}
+
 h1 {
 	padding: 0;
 	margin: 0;
