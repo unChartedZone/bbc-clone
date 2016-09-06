@@ -142,9 +142,15 @@
     font-size: 14px;
 }
 
+#article-container {
+    width: 800px;
+    border-right: 1px solid #CCCCCC;
+    float: left;
+}
+
 #article-summary {
     color: #5A5A5A;
-    width: 230px;
+    width: 250px;
     margin-left: 8.5%;
     float: left;
     padding-right: 20px;
@@ -169,6 +175,10 @@
 
 #topic-link:hover {
     color: #1167A8;
+}
+
+#asda-img {
+    float: left;
 }
 
 #article-hr {
