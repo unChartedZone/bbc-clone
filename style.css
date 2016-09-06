@@ -170,6 +170,26 @@
 #topic-link:hover {
     color: #1167A8;
 }
+
+#article-hr {
+    border-color: #A91717;
+    width: 50px;
+    float: left;
+    position: relative;
+    bottom: 10px;
+}
+
+.article-links:visited,
+.article-links {
+    /*margin-top: 10px;*/
+    text-decoration: none;
+    float: left;
+    font-size: 14px;
+    padding-bottom: 10px;
+    color: black;
+}
+
+.article-links:hover {
     color: #1167A8;
 }
 
