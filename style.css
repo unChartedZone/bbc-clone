@@ -207,6 +207,7 @@
 #watch-container {
     margin-left: 15px;
     float: left;
+    width: 350px;
 }
 
 #watch-listen {
