@@ -148,6 +148,10 @@
     margin-left: 8.5%;
 }
 
+#date {
+	padding right: 5px;
+}
+
 #article-summary img {
     position: relative;
     top: 5px;
@@ -156,6 +160,8 @@
 #article-summary a {
     text-decoration: none;
     color: #A91717;
+	border-left: 1px solid #CCCCCC;
+    padding-left: 5px;
 }
 
 #article-summary a:hover {
