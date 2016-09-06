@@ -143,9 +143,10 @@
 }
 
 #article-container {
-    width: 800px;
+    width: 750px;
     border-right: 1px solid #CCCCCC;
     float: left;
+    margin-left: 35px;
 }
 
 #article-summary {
