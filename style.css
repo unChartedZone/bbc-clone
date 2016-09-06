@@ -159,14 +159,17 @@
     top: 5px;
 }
 
-#article-summary a {
+#topic-link {
     text-decoration: none;
     color: #A91717;
 	border-left: 1px solid #CCCCCC;
     padding-left: 5px;
+
 }
 
-#article-summary a:hover {
+#topic-link:hover {
+    color: #1167A8;
+}
     color: #1167A8;
 }
 
