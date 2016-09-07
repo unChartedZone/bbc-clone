@@ -217,11 +217,22 @@
     color: #404045;
 }
 
-.video-link {
+.videos {
     margin-top: 10px;
+	font-size: 16px;
+	font-weight: bold;
 }
 
-.video-link img {
+.video-link {
+	text-decoration: none;
+	color: black;
+}
+
+.video-link:visited {
+	color: #686868;
+}
+
+.videos img {
     float: left;
     padding-right: 5px;
 }
