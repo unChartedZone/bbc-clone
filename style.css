@@ -267,6 +267,7 @@
 .video-date {
     position: relative !important;
     top: -6px !important;
+    border-right: 1px solid #CCCCCC;
 }
 
 h1 {
