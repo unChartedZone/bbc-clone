@@ -253,6 +253,7 @@
 .video-info-container {
     float: left;
     width: 250px;
+	/*height: 500px;*/
 }
 
 .video-image-container img {
@@ -262,12 +263,13 @@
 .video-info-text {
     float: left;
     padding-bottom: 5px;
+	width: 230px;
 }
 
 .video-date {
     position: relative !important;
     top: -6px !important;
-    left: -3px !important; 
+    left: -3px !important;
     border-right: 1px solid #CCCCCC;
 }
 
