@@ -261,13 +261,25 @@
 
 .video-info-text {
     float: left;
-    padding-bottom: 7px;
+    padding-bottom: 5px;
 }
 
 .video-date {
     position: relative !important;
     top: -6px !important;
+    left: -3px !important; 
     border-right: 1px solid #CCCCCC;
+}
+
+.video-subject-link {
+    font-weight: normal;
+    text-decoration: none;
+    color: #A91717;
+    font-size: 12px;
+}
+
+.video-subject-link:hover {
+    color: #1167A8;
 }
 
 h1 {
