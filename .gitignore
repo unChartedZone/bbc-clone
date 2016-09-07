@@ -2,3 +2,5 @@
 .idea
 tags
 *.swp
+.tags
+.tern-project
