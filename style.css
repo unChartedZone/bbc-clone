@@ -223,12 +223,12 @@
 	font-weight: bold;
 	float: left;
 	padding-top: 10px;
+    width: 420px;
 }
 
 .video-link {
 	text-decoration: none;
 	color: black;
-	float: left;
 }
 
 .video-link:visited {
@@ -240,8 +240,24 @@
 }
 
 .videos img {
-    float: left;
     padding-right: 5px;
+}
+
+.video-image-container {
+    float: left;
+}
+
+.video-info-container {
+    float: left;
+    width: 250px;
+}
+
+.video-info-text {
+    float: left;
+}
+
+.video-info-container img {
+    float: left;
 }
 
 h1 {
