@@ -158,6 +158,9 @@
 }
 
 .date {
+    color: #5A5A5A;
+    font-size: 14px;
+    font-weight: normal;
 	padding-right: 5px;
 }
 
@@ -252,12 +255,18 @@
     width: 250px;
 }
 
-.video-info-text {
+.video-image-container img {
     float: left;
 }
 
-.video-info-container img {
+.video-info-text {
     float: left;
+    padding-bottom: 7px;
+}
+
+.video-date {
+    position: relative !important;
+    top: -6px !important;
 }
 
 h1 {
