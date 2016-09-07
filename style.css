@@ -166,7 +166,7 @@
     top: 5px;
 }
 
-#topic-link {
+.subject-link {
     text-decoration: none;
     color: #A91717;
 	border-left: 1px solid #CCCCCC;
@@ -174,7 +174,7 @@
 
 }
 
-#topic-link:hover {
+.subject-link:hover {
     color: #1167A8;
 }
 
